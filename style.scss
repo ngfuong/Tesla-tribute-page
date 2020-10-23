@@ -1,0 +1,30 @@
+h1 {
+  font-size: 45;
+  font-weight: bold;
+  text-shadow: 3px 3px #000000;
+}
+main {
+  font-family: monospace;
+  background: linear-gradient(to bottom, gray, darken(black, 15%));
+  color: white;
+  height: auto;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+img {
+  width: 500px;
+  height: 500px;
+  max-width: 100%;
+  height: auto;
+  place-items: center;
+}
+figcaption {
+  text-align: center;
+}
+a {
+  color: orange;
+}
+footer {
+  text-align: center;
+}
